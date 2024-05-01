@@ -13,6 +13,6 @@ const server = http.createServer(function (req, res) {
     });
 });
 
-server.listen(port, hostname, () => {
+server.listen(process.env.PORT || port, function() {
     console.log(`server running at http://${hostname}:${port}/`);
 });

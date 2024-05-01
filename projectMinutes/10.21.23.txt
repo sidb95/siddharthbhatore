@@ -1,0 +1,26 @@
+# 21 Oct 2023
+## Saturday
+
+1. Progress today:
+	- in js tutorial (freecodecamp.org lessons).
+
+# 22 Oct 2023
+## Sunday
+
+Todos:
+1. Learn a bit of command prompt scripting.
+
+---
+inprogress
+---
+
+1. convert the project1 into nodejs project
+	- write smart code
+	- separation of concerns
+	- DRY
+	- optimize time to write the (html/script/code) and space
+	- naming conventions
+
+	progress:
+	1. status of catphotoapp:
+		- everything similar to my home page.

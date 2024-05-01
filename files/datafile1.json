@@ -1,13 +1,17 @@
 {
     "email" : "sbhatore95@gmail.com", 
+    "alternateemail" : "bhatoresiddharth@gmail.com",
     "githubUsername" : "sbhatore95",
+    "alternateGitHub" : "sidb95",
+    "mediumId" : "@bhatoresiddharth",
+    "linkedin" : "siddharth-bhatore-0435ba292",
     "fullName" : "Siddharth Bhatore",
-    "proHeadline" : "CS Graduate",
+    "proHeadline" : "CS Graduate, GoalKeeping",
     "subHeadline" : "Towards Self-Mastery",
     "mantra" : "Consistency is the key",
-    "personalHeadline" : "Strange Life...",
+    "personalHeadline" : "Step out and Play",
     "hobby1" : "Cycling", 
-    "hobby2" : "Running", 
-    "hobby3" : "Yoga",
-    "params" : ["email", "githubUsername", "fullName", "proHeadline", "subHeadline", "mantra", "personalHeadline", "hobby1", "hobby2", "hobby3"]
+    "hobby2" : "Skipping", 
+    "hobby3" : "Football",
+    "params" : ["email", "alternateemail", "githubUsername", "alternateGitHub", "mediumId", "fullName", "proHeadline", "subHeadline", "mantra", "personalHeadline", "hobby1", "hobby2", "hobby3"]
 }

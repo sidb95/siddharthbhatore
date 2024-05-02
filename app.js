@@ -7,7 +7,7 @@ const server = http.createServer(function (req, res) {
     fs.readFile('./static/files/datafile1.json', 'utf-8', function (err, data) {
         if (err) throw err;
         res.writeHead(200, {'Content-Type' : 'text/html', "access-control-allow-origin": null});
-        autoFill([], data);
+        res.write(autoFill([], data));
         return res.end();
     });
 });

@@ -12,10 +12,8 @@ function persDetailsRender(data) {
     var count = 0;
     //
     for(var i=0; i<tagGroups.length; i++) {
-        for(var j=0; j<tagGroups[i].length; j++) {
-            if(tagGroups[i][j]) {
-                tagGroups[i][j].innerHTML = data[arr[count]];
-                count++;
+        for(j=0; j<tagGroups[i].length; j++) {
+                tagGroups[i][j].innerHTML = arr[]
             }
         }
     }

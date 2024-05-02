@@ -1,6 +1,5 @@
 // this is where the magic happens.
 /* */
-def main():
   port = 8080;
   var xhttp = new XMLHttpRequest();
   xhttp.onreadystatechange = function( {

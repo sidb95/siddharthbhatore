@@ -1,5 +1,6 @@
 // this is where the magic happens.
 /* */
+port = 8080
 let imgFiles = ["images/email.png", "images/github.svg", "images/siddh.jpg", "images/friend.png"];
 //
 var xhttp = new XMLHttpRequest();
@@ -9,5 +10,5 @@ xhttp.onreadystatechange = function() { //
         autoFill(imgFiles, data); // function autoFill() resides in scriptAuto.js
     }
 }
-xhttp.open('GET', 'http://localhost:8080', true);
+xhttp.open('GET', process.env.PORT || port, true);
 xhttp.send();

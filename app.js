@@ -13,6 +13,6 @@ const server = http.createServer(function (req, res) {
 });
 
 server.listen(process.env.PORT || port, function() {
-    autoFill([], dataOne);
     console.log(`server running at http://${process.env.PORT || port}`);
+    autoFill([], dataOne);
 });

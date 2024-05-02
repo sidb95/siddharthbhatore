@@ -1,7 +1,7 @@
 // this is where the magic happens.
 /* */
 port = 8080
-let imgFiles = ["images/email.png", "images/github.svg", "images/siddh.jpg", "images/friend.png"];
+let imgFiles = ["../static/images/email.png", "../static/images/github.svg", "../static/images/siddh.jpg", "../static/images/friend.png"];
 //
 var xhttp = new XMLHttpRequest();
 xhttp.onreadystatechange = function() { // 

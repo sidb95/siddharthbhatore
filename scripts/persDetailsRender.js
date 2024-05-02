@@ -13,8 +13,8 @@ function persDetailsRender(data) {
     //
     for(var i=0; i<tagGroups.length; i++) {
         for(j=0; j<tagGroups[i].length; j++) {
-                tagGroups[i][j].innerHTML = arr[]
-            }
+                tagGroups[i][j].innerHTML = arr[count];
+                count++;
         }
     }
 }

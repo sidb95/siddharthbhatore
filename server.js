@@ -2,7 +2,7 @@ var http = require('http');
 var fs = require('fs');
 
 var hostname = 'localhost';
-var port = 8080;
+const port = 8080;
 
 const server = http.createServer(function (req, res) {
     fs.readFile('./static/files/datafile1.json', 'utf-8', function (err, data) {

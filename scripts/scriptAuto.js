@@ -3,4 +3,5 @@ function autoFill(imgFiles, data) {
     persDetailsRender(data);
     /* Rendering images */
     imageRender(imgFiles);
+    return;
 }

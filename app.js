@@ -1,5 +1,5 @@
-var http = import('http')
-var fs = import('fs')
+var http = import('http');
+var fs = import('fs');
 
 fs.readFile('./index.html', function (err, html) {
     if (err) {

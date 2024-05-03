@@ -5,8 +5,8 @@
     "engines": {
       "node": "18.18.0"
     },
-    "main": "server.js",
+    "main": "app.js",
     "scripts": {
-        "start" : "node server.js"
+        "start" : "node app.js"
     }
   }

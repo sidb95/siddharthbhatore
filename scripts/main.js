@@ -9,5 +9,5 @@
 // function autoFill() resides //  scriptAuto.js
     }
   }
-  xhttp.open('GET', "https://sidb95-6350abd7af18.herokuapp.com:process.env.PORT" || port, true);
+  xhttp.open('GET', process.env.PORT || port, true);
   xhttp.send();

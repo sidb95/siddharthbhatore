@@ -5,7 +5,7 @@ var hostname = 'localhost';
 var port = 8080;
 
 const server = http.createServer(function (req, res) {
-    fs.readFile('./files/datafile1.json', 'utf-8', function (err, data) {
+    fs.readFile('./index.html', 'utf-8', function (err, data) {
         if (err) throw err;
         res.writeHead(200, {'Content-Type' : 'text/html', "access-control-allow-origin": null});
         res.write(autoFill([], data));

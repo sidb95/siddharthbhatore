@@ -1,3 +1,3 @@
-# Siddharth Bhatore
+# Django Web Application for sidb95 homepage
 
-Personal Website.
+1. python3 manage.py runserver

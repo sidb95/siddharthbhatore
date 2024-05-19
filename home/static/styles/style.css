@@ -8,9 +8,10 @@ body {
     margin-left: 5%;
     font-size: larger;
 }
-h1, h2, h3, h4, .dp {
+h1, h2, h3, h4 {
+    margin-top: 11%;
     text-align: center;
-    margin-right: 15%;
+    margin-right: 30%;
 }
 
 #top-down {
@@ -22,9 +23,9 @@ h1, h2, h3, h4, .dp {
     margin-left: 37.5%;
 }
 
-#self-pic1 {
-    width: calc(48.96px*3);
-    height: calc(65.28px*3);
+.dp {
+    height: 360px;
+    width: 120px;
 }
 
 #email-pic {

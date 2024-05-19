@@ -1,3 +1,0 @@
-# Siddharth Bhatore
-
-Personal Website.

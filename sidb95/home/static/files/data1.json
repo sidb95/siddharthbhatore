@@ -6,12 +6,12 @@
     "mediumId": "@bhatoresiddharth",
     "linkedin": "siddharth-bhatore-0435ba292",
     "fullName": "Siddharth Bhatore",
-    "proHeadline": "CS Graduate, GoalKeeping",
+    "proHeadline": "CS Graduate, GoalKeeper",
     "subHeadline": "Towards Self-Mastery",
     "mantra": "Consistency is the key",
     "personalHeadline": "Step out and Play",
     "hobby1": "Cycling", 
     "hobby2": "Skipping", 
-    "hobby3": "Football",
+    "hobby3": "Outdoor Sports",
     "params": ["email", "alternateemail", "githubUsername", "alternateGitHub", "mediumId", "fullName", "proHeadline", "subHeadline", "mantra", "personalHeadline", "hobby1", "hobby2", "hobby3"]
 }
